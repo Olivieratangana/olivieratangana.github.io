@@ -13,7 +13,7 @@ name                     : &name "Olivier Atangana"
 description              : &description "PhD Candidate in Central Bank Digital Currency at Unicaen/ENSICAEN Engineering school, France"
 url                      : https://olivieratangana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "maurapintor/maurapintor.github.io"
+repository               : "olivieratangana/olivieratangana.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD Candidate in Central Bank Digital Currency at Unicaen/ENSICAEN Engineering school, France."
   location         : "Caen, France"
-  employer         :
+  employer         :  "Fime"
   pubmed           :
   googlescholar    : "https://scholar.google.it/citations?user=Tu45bY4AAAAJ&hl=it"
   email            : "maura.pintor@unica.it"
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "maura.pintor"
+  facebook         : #"maura.pintor"
   foursquare       :
-  github           : "maurapintor"
+  github           : "olivieratangana"
   google_plus      :
   keybase          :
-  instagram        : "maupin91/"
+  instagram        : "olivier_a007/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "maura-pintor"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : "maupin"
   tumblr           :
-  twitter          : "maurapintor"
+  twitter          : "olivierAtangana2"
   vine             :
   weibo            :
   xing             :
