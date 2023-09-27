@@ -86,8 +86,8 @@ author:
   location         : "Caen, France"
   employer         :  "Fime"
   pubmed           :
-  googlescholar    : "https://scholar.google.it/citations?user=Tu45bY4AAAAJ&hl=it"
-  email            : "olivier.atangana@fime.com"
+  googlescholar    : #"https://scholar.google.it/citations?user=Tu45bY4AAAAJ&hl=it"
+  email            : #"olivier.atangana@fime.com"
   researchgate     : #"https://www.researchgate.net/profile/Maura_Pintor2"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        : "olivier_a007/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "olivier atangana"
+  linkedin         : "www.linkedin.com/in/olivier-atangana-172b591a8/?originalSubdomain=fr"
   orcid            :  #"https://orcid.org/0000-0002-1944-2875"
   pinterest        :
   soundcloud       :
