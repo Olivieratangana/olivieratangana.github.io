@@ -87,8 +87,8 @@ author:
   employer         :  "Fime"
   pubmed           :
   googlescholar    : "https://scholar.google.it/citations?user=Tu45bY4AAAAJ&hl=it"
-  email            : "maura.pintor@unica.it"
-  researchgate     : "https://www.researchgate.net/profile/Maura_Pintor2"
+  email            : "olivier.atangana@fime.com"
+  researchgate     : #"https://www.researchgate.net/profile/Maura_Pintor2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        : "olivier_a007/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "maura-pintor"
-  orcid            : "https://orcid.org/0000-0002-1944-2875"
+  linkedin         : "olivier atangana"
+  orcid            :  #"https://orcid.org/0000-0002-1944-2875"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
