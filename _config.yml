@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maura Pintor"
+title                    : "Olivier Atangana"
 title_separator          : "-"
-name                     : &name "Maura Pintor"
-description              : &description "Assistant Professor at University of Cagliari"
-url                      : https://maurapintor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Olivier Atangana"
+description              : &description "PhD Candidate in Central Bank Digital Currency at Unicaen/ENSICAEN Engineering school, France"
+url                      : https://olivieratangana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maurapintor/maurapintor.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Maura Pintor"
   avatar           : "profile.jpg"
-  bio              : "Assistant professor at University of Cagliari, Italy."
-  location         : "Cagliari, Italy"
+  bio              : "PhD Candidate in Central Bank Digital Currency at Unicaen/ENSICAEN Engineering school, France."
+  location         : "Caen, France"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.it/citations?user=Tu45bY4AAAAJ&hl=it"
