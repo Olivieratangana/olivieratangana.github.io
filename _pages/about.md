@@ -7,12 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Olivier Atangana is a **PhD Candidate** at the [**Greyc Lab**](https://www.greyc.fr/), in the [**ENSICAEN Engineering School of Caen**](https://www.ensicaen.fr/), France, and a **Cryptocurrency Researcher** at the company [**Fime**](https://www.fime.com/fr/), France.)
 
-Olivier Atangana is an **PhD Candidate** at the [**Greyc Lab**](http://pralab.diee.unica.it/en), in the ENSICAEN Engineering School of Caen, France, and a **Cryptocurrency Researcher** at the company [**Pluribus One**](https://www.pluribus-one.it/), Italy. 
+**Research.** Olivier received his Engineering Degree in Computer Science and Electronics from ESIREM Engineering School-Dijon in 2022. His Ph.D. thesis, "Offline Payment Requirements of Central Bank Digital Currency," delves into the intricacies of CBDCs and their potential for revolutionizing the financial sector. Olivier was a visiting lecturer in Network Security at ENSICAEN Engineering School and has also contributed significantly to the academic community with publications, including "Securing Privacy in Offline Payment for Retail CBDC: A Comprehensive Framework."
 
-**Research.** She received her PhD in Electronic and Computer Engineering from the University of Cagliari in 2022. Her PhD thesis, \"Towards Debugging and Improving Adversarial Robustness Evaluations\", provides a framework for optimizing and debugging adversarial attacks. She was a visiting student at Eberhard Karls Universitaet Tuebingen, Germany, from March to June 2020 and at the Software Competence Center Hagenberg (SCCH), Austria, from May to August 2021. 
-
-**Projects.**She has collaborated with [Pluribus One](https://www.pluribus-one.it/) in the EU H2020 projects [ALOHA](https://www.aloha-h2020.eu/) and [AssureMOSS](https://assuremoss.eu/en/)(still ongoing).
+**Projects**. Olivier has collaborated with Fime on groundbreaking projects in the realm of Central Bank Digital Currencies (CBDCs). His visionary approach led to the strategization and design of avant-garde CBDC use cases, including the development of an offline CBDC wallet test tool. He has also been instrumental in research endeavors, ranging from meticulous CBDC documentation studies to the creation of an Offline CBDC e-wallet
 
 
-**Lecture Slides Leuven**: [https://docs.google.com/presentation/d/1EC4WQccPPRPEgnouML3wB5jsUWlegsnudIbyap6xSPE/edit?usp=sharing](https://docs.google.com/presentation/d/1EC4WQccPPRPEgnouML3wB5jsUWlegsnudIbyap6xSPE/edit?usp=sharing)
