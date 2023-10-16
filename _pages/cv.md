@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Maura Pintor - **Assistant Professor** @ [University of Cagliari](https://www.unica.it/unica/en/homepage.page) and **Collaborator** @ [Pluribus One](https://www.pluribus-one.it/).
+Maura Pintor - **PhD Candidate in cryptocurrency** @ [University of Cagliari](https://www.unica.it/unica/en/homepage.page) and **Cryptocurrency researcher** @ [Fime](https://www.pluribus-one.it/).
 
-[Download pdf version](http://maurapintor.github.io/files/Curriculum.pdf)
+[Download pdf version](http://olivieratangana.github.io/files/Curriculum.pdf)
 
-Last update: Sept. 3rd 2023
+Last update: Oct. 16 2023
 
 Education and Research
 ======
