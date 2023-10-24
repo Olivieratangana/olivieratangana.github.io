@@ -9,214 +9,89 @@ redirect_from:
 
 {% include base_path %}
 
-Maura Pintor - **PhD Candidate in cryptocurrency** @ [University of Cagliari](https://www.unica.it/unica/en/homepage.page) and **Cryptocurrency researcher** @ [Fime](https://www.pluribus-one.it/).
+# OLIVIER ATANGANA
+46 Rue saint Ouen, 14000 Caen, France  
+📞 +33(0) 616711609 | 📧 olivieratangana57@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/olivieratangana/)
 
-[Download pdf version](http://olivieratangana.github.io/files/Curriculum.pdf)
+## CAREER PROFILE
+A highly motivated Ph.D. Candidate specializing in cryptocurrencies, with a solid background in electronic engineering, computer networks, and telecommunications. Proven ability in functional, security, and compliance testing, alongside a strong foundation in programming and machine learning. Aiming to leverage the expertise in blockchain technology and network security to contribute to innovative projects in the field of Central Bank Digital Currencies (CBDCs).
 
-Last update: Oct. 16 2023
-
-Education and Research
-======
-*  03/2023 - ongoing: Assistant Professor (RTDa)
-  * University of Cagliari (Italy)
-  * Duties included: Research on machine learning security.
-* 10/2021 - 02/2022: Postdoctoral Researcher
-  * University of Cagliari (Italy)
-  * Duties included: Research on machine learning security.
-* 2022 - Ph.D in Electronic and Computer Engineering, University of Cagliari (Italy)
-    * Visiting student at Eberhard Karls Universität Tübingen, March 2020 - June 2020
-    * Visiting student at Software Competence Center Hagenberg (SCCH), virtual, May 2021 - August 2021
-    * [PhD Thesis](http://maurapintor.github.io/files/PhD_Thesis_Maura_Pintor.pdf): "Towards Debugging and Improving Adversarial Robustness Evaluations"
-* 2018 - M.S. in Telecommunications Engineering, University of Cagliari (Italy)
-* 2016 - B.S. in Electronic Engineering, University of Cagliari (Italy).
-
-Work experience
-======
-
-* 03/2021 - 03/2022 : Collaborator for EU project
-  * Pluribus One S.r.l., Cagliari (Italy)
-  * Duties included: Collaboration for WP6 "Impact: Benchmark Datasets and Tool Flow Pilots" 
-    in the EU Project [AssureMOSS](https://assuremoss.eu/en/).
-* 03/2019 - 03/2020 : Collaborator for EU project
-  * Pluribus One S.r.l., Cagliari (Italy)
-  * Duties included: Design and integration of tools for evaluating machine learning 
-  robustness in the EU Project [ALOHA](https://www.aloha-h2020.eu/).
-* 02/2018 - 07/2018 : Software developer
-  * Pluribus One S.r.l., Cagliari (Italy)
-  * Duties included: Development of systems for internet traffic security.
-* 07/2017 - 12/2017 : Collaborator at University of Cagliari
-  * University of Cagliari (Italy)
-  * Duties included: Project MIUR - Smart Cities - Cagliari Port 2020. Hardware and 
-  software design and implementation of IoT systems for data gathering and visualization. 
-  Software development for Linux OS based microprocessor (Raspberry Pi), sensor integration, 
-  data management and cloud storage.
-
-Projects
-========
-* 10/2022 - ongoing: Participation, with the University of Cagliari, in the EU project ``European Lighthouse on Secure and Safe AI'' (ELSA), Grant Agreement no.: 101070617, funded by the European Union in the programme HORIZON-CL4-2021-HUMAN-01.
-* 10/2021 - ongoing : Participation, with the University of Cagliari, in the research project ``Huawei R\&D Agreement: Deep Reinforcement Learning Key Security Technologies'', Grant Agreement n. TC20201118006.
-* 03/2021 - ongoing: Scientific Coordinator, with the company Pluribus One, of the WP6 (Impact: Benchmark Datasets and Tool Flow Pilots) of the EU project ``Assurance and certification in secure Multi-party Open Software and Services'' (AssureMOSS), Grant Agreement no.: 952647, funded by the EU Union in the programme H2020-SU-ICT-2019.
-* 03/2019 - 03/2020: Scientific Coordinator, with the company Pluribus One, in the EU project ``Software framework for runtime-Adaptive and secure deep Learning On Heterogeneous Architectures'' (ALOHA), Grant Agreement no.: 780788, funded by the EU Union in the programme H2020-ICT-2017-1.
+## EDUCATION
+- **Ph.D. Candidate in Cryptocurrencies** | ENSICAEN Engineering School| January 2023 - Present  
+  Thesis: Central Bank Digital Currency offline payments requirements  
+  Key Courses: Transaction Security, Cryptography Algorithms, Blockchain Risk Management, AI applied to security and privacy.
   
-Teaching
-========
+- **Engineering Degree in Computer Science and Electronics** | ESIREM Engineering School-Dijon | 2022  
+  Specialty: Network Security and Quality
 
-## Teaching Assistant
-
-* 10/2022 - ongoing : Teaching Assistant
-  * University of Cagliari (Italy)
-  * Duties included: Teaching Assistant for [Machine Learning Security Course](https://unica-ml.github.io/).
-  * MSc in Computer Engineering, Cybersecurity and Artificial Intelligence
-* 09/2022 - ongoing : Teaching Assistant
-  * University of Cagliari (Italy)
-  * Duties included: Teaching Assistant for [Machine Learning Security Course](https://unica-ml.github.io/).
-  * PhD course, PhD programme in Information Engineering and Science, Univ. of Siena, PhD programme in Electronic and Computer Engineering, Univ. of Cagliari
-* 05/2019 - ongoing : Teaching Assistant
-  * University of Cagliari (Italy)
-  * Duties included: Teaching Assistant for [Machine Learning Course](https://unica-ml.github.io/).
-  * MSc in Computer Engineering, Cybersecurity and Artificial Intelligence
-* 12/2019 - ongoing : Teaching Assistant
-  * University of Cagliari (Italy)
-  * Duties included: Teaching Assistant for [Industrial Software Development Course](https://github.com/unica-isde/isde).
-  * MSc in Computer Engineering, Cybersecurity and Artificial Intelligence
-
-
-## Tutoring
-
-* 11/2022 - 02/2023 : Academic Tutor
-  * University of Cagliari (Italy)
-  * Duties included: Tutor for [Industrial Software Development Course](https://github.com/unica-isde/isde).
-* 03/2021 - 07/2021 : Academic Tutor
-  * University of Cagliari (Italy)
-  * Duties included: Tutor for [Machine Learning Course](https://unica-ml.github.io/).
-* 02/2017 - 06/2018 : Academic Tutor
-  * University of Cagliari (Italy)
-  * Duties included: Tutor for Computer Science course, Python language.
-
-
-Publications
-======
-{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-{% endfor %}
+## PROFESSIONAL EXPERIENCE
+- **CBDC Consultant** | FIME | September 2023 – Present  
+  Strategized, designed, and roadmapped CBDC use cases for clients.
   
-[comment]: <> (Talks)
-
-[comment]: <> (======)
-
-[comment]: <> (  <ul>{% for post in site.talks %})
-
-[comment]: <> (    {% include archive-single-talk-cv.html %})
-
-[comment]: <> (  {% endfor %}</ul>)
+- **Cryptocurrency Researcher** | FIME | January 2023 – Present  
+  Led the test tool development project for an offline CBDC wallet.
   
-[comment]: <> (Teaching)
-
-[comment]: <> (======)
-
-[comment]: <> (  <ul>{% for post in site.teaching %})
-
-[comment]: <> (    {% include archive-single-cv.html %})
-
-[comment]: <> (  {% endfor %}</ul>)
+- **IT & Telecom Project Engineer** | Options Telecom | February 2022 - July 2022  
+  Developed customizable call flow dashboards tailored for decision-makers.
   
-Awards and accomplishments
-======
-* 06/2017 Best IoT - Week Hackathon Project - Siemens Award
-    * 1st place
-    * Project: Be Right Beach
-    * Sustainable tourism development, safety improvement, 
-    environment preservation and economic growth. 
-    Design and implementation of a system composed by two 
-    connected stations that provide sensor values and an 
-    important real-time analysis about the crowdedness.
-    * [Link to the article](https://iot-epi.eu/2017/06/19/highlights-of-hackathon-at-iot-week-geneva-2017/)
-    * [Report](http://maurapintor.github.io/files/2017_IoT-Week_Hackathon_Report.pdf)
+- **IT Assistant Supervisor** | University de Burgundy | April 2020 - December 2021  
+  Assisted students in leveraging computer tools and provided technical support
 
-<!-- * 01/2017
-    * Machine Learning by Stanford University on Coursera
-    * Certificate obtained on January 25th 2017
-    * [Link to the certificate](https://www.coursera.org/account/accomplishments/verify/EW5CF6L9RQUR)
+## RESEARCH EXPERIENCE
+- CBDC Conducted an in-depth CBDC documentation study.
+- Designed features for an Offline CBDC e-wallet, considering the matrix of electronic currency and its security constraints.
+- Implemented a secure communication protocol between two offline wallets.
+- Synchronized offline transactions with the ledger.
+- Integrated embedded AI within a CBDC e-wallet for fraud detection.
 
-* 04/2018
-    * Android Basics Nanodegree by Google on Udacity
-    * Android development
-    * Certificate obtained on April 2nd 2018
-    * [Link to the certificate](https://confirm.udacity.com/DWAAHGAU)  -->
+## TEACHING EXPERIENCE
+- **Visiting Lecturer in Network Security** | ENSICAEN Engineering School | September 2023 - Present
 
-<!-- * 06/2021
-    * Introduction to Machine Learning in Production by DeepLearning.AI on Coursera.
-    * MLOps
-    * Certificate obtained on June 6th 2021
-    * [Link to the certificate](https://www.coursera.org/account/accomplishments/certificate/24YC826F2QBH) -->
+## PUBLICATIONS
+- "Securing Privacy in Offline Payment for Retail CBDC: A Comprehensive Framework"  
+  Presented at Blockchain & Cryptocurrency Conference (B2C’) 18-20 October 2023, Corfu, Greece
 
-Other Activities
-======
+## PROFESSIONAL ASSOCIATIONS
+- Digital Euro Association, Global Platform, FIDO Alliance/FEWG EU ID Wallet
 
-## Conference and Workshop Chair
-* 04/2024: Track co-chair at [Safe, Secure and Robust AI Track at the SAC24 Conference](https://sites.google.com/view/s2rai-sac/)
-* 11/2023: Wokshop co-chair at [16th ACM Workshop on Artificial Intelligence and Security (AISec 2023)](https://aisec.cc), co-located with ACM CCS.
-* 10/2023: Track co-chair of [ESANN 2023 special session Towards Machine Learning Models that We Can Trust: Testing, Improving, and Explaining Robustness](https://www.esann.org/special-sessions#session5).
-* 08/2022: Workshop co-chair at [ARES International Workshop on Continuous Software Evaluation and Certification (IWCSEC 2022)](https://www.ares-conference.eu/workshops-eu-symposium/iwcsec-2022/)
-* 06/2022: Workshop co-chair at [ITASEC AI for Security and Security of AI Workshop (AISSAI 2022)](https://itasec.it/workshop/workshop-ai-for-security-and-security-of-ai/)
+## RELEVANT SKILLS
+**Technical Skills**
+- **Blockchain**:  
+  Architecture and Design: Design and implementation of blockchain solutions.  
+  Smart Contracts: Development, deployment, and optimization of smart contracts.
+  
+- **Cryptographic Engineering**:  
+  Design and implementation of secure cryptographic protocols.  
+  Performance optimization of cryptographic operations.
+  
+- **Programming**: C++, Python, Kotlin  
+- **Electronics**: Signal Processing, Wireless Communication  
+- **Networks/Telecommunications Tools**: NS2, NS3, Omnet++, GNS3, Packet Tracer, Ntopng, PRTG  
+- **IT**: Machine learning (Keras/Tensorflow/Pytorch), Virtualization (VMware Esxi, Virtual Box), Office tools (Latex, MS Office)
 
-## Reviewer
+**Communication skills**  
+Effective Presentation: Proficient in conveying complex information in a clear and concise manner to diverse audiences.  
+Technical Communication: Adept at translating intricate technical concepts into comprehensible language for non-technical stakeholders
 
-### Journals
-* IEEE Transactions on Information Forensics and Security (IEEE T-IFS)
-* IEEE Transactions on Image Processing (IEEE TIP)
-* IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
-* IEEE Transactions on Neural Networks and Learning Systems (IEEE-TNNLS)
-* ACM Transactions on Privacy and Security (TOPS)
-* Journal of Intelligent Information Systems (JIIS)
-* Eurasip Journal on Information Security 
-* Machine Vision and Applications (MVAP)
+**Interpersonal skills**  
+- Collaborating with colleagues to develop and test research ideas  
+- Supporting the development of team members through assisting with their professional training to ensure competence and personal safety
 
+## RESEARCH INTERESTS
+- Digital payment, DeFi, Open banking, Cloud, IoT, Security and Privacy in IT, Blockchain, Web3, Wireless Sensor Networks
 
-### Conferences
-* 10/2023 PC at [Twelfth International Conference on Learning Representations](iclr.cc)
-* 05/2023 PC at [Neural Information Processing Systems (NeurIPS 2023)](https://neurips.cc)
-* 05/2023 PC at [Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org)
-* 04/2023 PC at [International Conference on Computer Vision(ICCV 2023)](https://iccv2023.thecvf.com)
-* 03/2023 PC at the [International Conference on Availability, Reliability and Security (ARES 2023)](https://www.ares-conference.eu)
+## CERTIFICATIONS
+- CCNA I: Basics of network
+- CCNA II: Available and Reliable Network
+- CCNA III: Local security network, Wireless Network and security
+- CCNA IV: Virtualization, Cloud Computing, IoT
 
-### Workshops
+## OTHERS PROJECTS
+- **Guarantee of a security service in a Cloud Computing environment** | September 2021-January 2022  
+  Deployment of confidentiality and access control mechanisms in the OPENSTACK solution
+  
+- **IoT Service level guarantee** | September 2021-November 2021
 
-* 03/2023 PC at [AAAI Workshop on Practical Deep Learning in the Wild](https://practical-dl.github.io)
-* 03/2023 PC at [Euro S&P Workshop on Robust Malware Analysis](https://worma.gitlab.io/2023/)
-* 02/2023 PC at [CVPR Workshop on Generative Models for Computer Vision](https://generative-vision.github.io/workshop-CVPR-23/)
-* 02/2023 PC at [CVPR Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness](https://robustart.github.io)
-* 2022/04 Program Committee at [ICML 2022 Workshop Shift happens: Crowdsourcing metrics and test datasets beyond ImageNet](https://shift-happens-benchmark.github.io)
-* 2022/03 Program Committee at [ICML 2022 Workshop on Socially Responsible Machine Learning](https://iclrsrml.github.io/)
-* 2021/08 Program Committee at 14th ACM CCS 2021 Workshop on Artificial Intelligence and Security ([AISec](https://aisec.cc/))
-* 2021/06 Program Committee at [CVPR 2021 Workshop on Adversarial Machine Learning in Real-World Computer Vision Systems and Online Challenges](https://aisecure-workshop.github.io/amlcvpr2021/)
-* 2021/06 Program Committee at [ICML 2021 Workshop on Socially Responsible Machine Learning](https://icmlsrml2021.github.io/)
-* 2021/03 Program Committee at [ICLR 2021 Workshop on Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/)
-* 2020/11 Program Committee at [AAAI 2021 Workshop - Towards Robust, Secure and Efficient Machine Learning](https://rseml2021.github.io/)
-* 2020/08 Program Committee at [ECCV 2020 Workshop on Adversarial Robustness in the Real World](https://eccv20-adv-workshop.github.io/)
-* 2020/06 Program Committee at [CVPR 2020 Workshop on Adversarial Machine Learning in Computer Vision](https://adv-workshop-2020.github.io/)
-
-## Talks and Posters
-* 2023/07 Presented "Towards Machine Learning Models that We Can Trust: Hacking and (properly) Testing AI" at the ARTISAN Summer School 2023 (Role and effects of ARTificial Intelligence in Secure ApplicatioNs) in Vienna, Austria.
-* 2023/05 Presented "Machine Learning Security: Lessons Learned and Future Challenges" at the Hamburg University of Technology (TUHH), Hamburg, Germany.
-* 2022/11 Presented "Indicators of Attack Failure: Debugging and Improving Optimization of Adversarial Examples" at [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/91ffdc5e2f12436d99914418e38d0a09-Abstract-Conference.html)
-* 2022/06 Presented [slides/video](https://slideslive.com/38987457) at [ICML 2022 Workshop Shift happens: Crowdsourcing metrics and test datasets beyond ImageNet](https://shift-happens-benchmark.github.io)
-* 2021/11 Presented [slides/video](https://maurapintor.github.io/portfolio/2021-11-05-cybersec-ai-iof/) at [Cybersec&AI Connected](https://cybersecai.com/) ([Slides](https://maurapintor.github.io/files/2021_CybersecAI_IoF.pdf))([Video](https://youtu.be/WFxl3nJyMXY?t=7588))
-* 2021/07 Poster Session at ICML 2021 Workshop A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning ([Poster](http://maurapintor.github.io/files/2021_ICML-AML_IOF.pdf))
-* 2021/07 [Oral talk](https://maurapintor.github.io/portfolio/2021-07-24-icml-workshop-aml-fmn/) at ICML 2021 Workshop A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning ([Video](https://slideslive.com/38960366/fast-minimumnorm-fmn-adversarial-attacks-through-adaptive-norm-constraints?ref=speaker-80102-latest)) ([Poster](http://maurapintor.github.io/files/2021_ICML-AML_FMN.pdf))
-* 2021/06 Poster Session at Microsoft Security Data Science Colloquium ([Slides](https://docs.google.com/presentation/d/126ppYyCRBsLBgpYOtvNY8McnqS6GK_3Lmc5M8Ot_88c/edit?usp=sharing))
-* 2019/10 Presented [poster](https://maurapintor.github.io/portfolio/2019-08-06-cybersec-ai-prague-poster-transferability/) at [Cybersec&AI Prague](https://www.cybersecprague.ai/)
-
-## Summer Schools (as a student)
-* 2021/07 Regularization Methods for Machine Learning ([RegML 2021](https://ml.unige.it/education/school/regml2021/))
-* 2020/07 Machine Learning Summer School ([MLSS 2020](http://mlss.tuebingen.mpg.de/2020/))
-* 2019/07 International Computer Vision Summer School ([ICVSS 2019](https://iplab.dmi.unict.it/icvss2019/))
-
-Code
-====
-
-GitHub profile: https://github.com/maurapintor
-
-* [SecML](https://github.com/pralab/secml) Library Maintainer
-* [PandaVision](https://github.com/maurapintor/pandavision) Library Maintainer
-* [MLSec Seminars](https://pralab.github.io/mlsec/) Organizer of the series.
+## REFERREES
+- Lyes Khoukhi, [Lyes.khoukhi@ensicaen.fr](mailto:Lyes.khoukhi@ensicaen.fr)
+- Morgan Barbier, [Morgan.barbier@ensicaen.fr](mailto:Morgan.barbier@ensicaen.fr)
