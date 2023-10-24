@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Olivier Atangana - **PhD Candidate** @ [Esicaen Engeneering School ](https://www.ensicaen.fr/) and **Collaborator** @ [Fime](https://www.fime.com/fr/).
+
+[Download pdf version](http://olivieratangana.github.io/files/Curriculum.pdf)
 
 # OLIVIER ATANGANA
 46 Rue saint Ouen, 14000 Caen, France  
