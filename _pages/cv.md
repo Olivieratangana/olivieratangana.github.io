@@ -14,7 +14,7 @@ Olivier Atangana - **PhD Candidate in Central Bank Digital Currenicy (CBDC)** @ 
 
 # OLIVIER ATANGANA
 46 Rue saint Ouen, 14000 Caen, France  
-📞 +33(0) 616711609 | 📧 olivieratangana57@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/olivieratangana/)
+📞 +33(0) 616711609 | 📧 olivieratangana57@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/olivieratangana/)🌐 [olivieratangana.github.io](https://olivieratangana.github.io/)
 
 ## CAREER PROFILE
 A highly motivated Ph.D. Candidate specializing in cryptocurrencies, with a solid background in electronic engineering, computer networks, and telecommunications. Proven ability in functional, security, and compliance testing, alongside a strong foundation in programming and machine learning. Aiming to leverage the expertise in blockchain technology and network security to contribute to innovative projects in the field of Central Bank Digital Currencies (CBDCs).
