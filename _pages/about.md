@@ -27,6 +27,6 @@ Olivier has collaborated with Fime on groundbreaking projects in the realm of Ce
 
 🙏 A heartfelt thank you to **Greyc** and **Fime** for their unwavering support and contribution to this research. Their expertise was pivotal in shaping our findings.
 
-🔗 [Dive deeper into our groundbreaking approach and its implications for the future of digital currencies.](https://lnkd.in/eqXe65Uf)
+🔗 [Dive deeper into our groundbreaking approach and its implications for the future of digital currencies.](https://normandie-univ.hal.science/hal-04243732)
 
 
