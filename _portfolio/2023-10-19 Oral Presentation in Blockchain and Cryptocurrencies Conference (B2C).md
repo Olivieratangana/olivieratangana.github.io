@@ -4,5 +4,5 @@ excerpt: "Presentation of Securing Privacy in offline payment for retail Central
 collection: portfolio
 ---
 
-* [Link to the presentation](http://olivieratangana.github.io/files/Oral_presentation_B2Conference.pdf)
+* [Link to the presentation](http://olivieratangana.github.io/files/Oral_presentation_B2C_conference.pdf)
 
