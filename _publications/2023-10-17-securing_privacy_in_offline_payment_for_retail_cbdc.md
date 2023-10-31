@@ -1,12 +1,12 @@
 ---
 title: "2023-10-17-Securing privacy in offline payment for retail CBDC: A comprehensive framework"
 collection: publications
-permalink: /publications/2023-10-19-Securing_privacy_in_offline_payment_for_retail_cbdc: A comprehensive framework
+permalink: /publications/2023-10-19-Securing_privacy_in_offline_payment_for_retail_cbdc
 pubtype: proceeding
 authors:  O. Atangana, M. Barbier, L. Khoukhi, W. Royer
 date: 2023-10-19
 venue: 'In the proceedings of 2023 17-20 th Blockchain and Cryptocurrency (B2C)'
-paperurl: 'https://https://normandie-univ.hal.science/hal-04243732'
+paperurl: 'https://normandie-univ.hal.science/hal-04243732'
 citation: ' O. Atangana, M. Barbier, L. Khoukhi, W. Royer;Securing privacy in offline payment for retail CBDC: A comprehensive framework; In the proceedings of 2023 17-20 th Blockchain and Cryptocurrency (B2C).'
 ---
 Abstract:
