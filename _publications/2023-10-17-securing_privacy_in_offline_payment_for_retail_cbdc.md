@@ -1,7 +1,7 @@
 ---
 title: "2023-10-17-Securing privacy in offline payment for retail CBDC: A comprehensive framework"
 collection: publications
-permalink: /publications/2023-10-17-Securing_privacy_in_offline_payment_for_retail_cbdc: A comprehensive framework
+permalink: /publications/2023-10-19-Securing_privacy_in_offline_payment_for_retail_cbdc: A comprehensive framework
 pubtype: proceeding
 authors:  O. Atangana, M. Barbier, L. Khoukhi, W. Royer
 date: 2023-10-19
