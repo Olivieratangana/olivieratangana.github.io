@@ -23,7 +23,7 @@ Olivier has collaborated with Fime on groundbreaking projects in the realm of Ce
 
 **Securing the Future Monetary System-Cybersecurity for Central Bank Digital Currencies 8-9 November 2023, Basel, Switzerland**
 
-My attendance at the conference titled "Securing the Future Monetary System - Cybersecurity for Central Bank Digital Currencies" held on 8-9 November 2023 in Basel, Switzerland,presented a unique opportunity to engage with key figures in the field and to represent Fime’s interests and expertise.
+My attendance at the conference titled "Securing the Future Monetary System - Cybersecurity for Central Bank Digital Currencies" held on 8-9 November 2023 in Basel, Switzerland,presented a unique opportunity to engage with key figures in the field and to represent Fime’s interests and expertise.
 
 **Day 1: Theoretical Insights and CBDC Projects**
 
