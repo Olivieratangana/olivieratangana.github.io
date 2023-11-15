@@ -1,3 +1,4 @@
+---
 title: "2022-09-15 Thesis Project"
 excerpt: "Thesis Project"
 collection: portfolio
