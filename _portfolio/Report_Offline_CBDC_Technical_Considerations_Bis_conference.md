@@ -1,5 +1,5 @@
 ---
-title: "2023-11-15 Report_Offline_CBDC_Technical_Considerations_Bis_conference"
+title: "2023-11-16 Report_Offline_CBDC_Technical_Considerations_Bis_conference"
 excerpt: "Report_Offline_CBDC_Technical_Considerations_Bis_conference"
 collection: portfolio
 ---
