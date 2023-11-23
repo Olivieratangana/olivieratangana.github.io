@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Olivier Atangana - **PhD Candidate in Central Bank Digital Currenicy (CBDC)** @ [Ensicaen Engineering School ](https://www.ensicaen.fr/) and **Cryptocurrencies Researcher** @ [Fime](https://www.fime.com/fr/).
+Olivier Atangana - **PhD Candidate in Central Bank Digital Currencies (CBDC)** @ [Ensicaen Engineering School ](https://www.ensicaen.fr/) and **Cryptocurrencies Researcher** @ [Fime](https://www.fime.com/fr/).
 
 [Download pdf version](http://olivieratangana.github.io/files/Curriculum.pdf)
 
