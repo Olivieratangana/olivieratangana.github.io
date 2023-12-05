@@ -24,7 +24,7 @@ A highly motivated Ph.D. Candidate specializing in cryptocurrencies, with a soli
   Thesis: Central Bank Digital Currency offline payments requirements  
   Key Courses: Transaction Security, Cryptography Algorithms, Blockchain Risk Management, AI applied to security and privacy.
   
-- **Engineering Degree in Computer Science and Electronics** | Polytech Dijon | 2022  
+- **Engineering Degree in Computer Science and Electronics** | Polytech Engineering School of Dijon | 2022  
   Specialty: Network Security and Quality
 
 ## PROFESSIONAL EXPERIENCE
