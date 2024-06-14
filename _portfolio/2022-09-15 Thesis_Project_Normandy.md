@@ -1,5 +1,5 @@
 ---
-title: "2024-06-14 Thesis Project Normandy"
+title: "2022-09-15 Thesis Project Normandy"
 excerpt: "Thesis Project"
 collection: portfolio
 --- 
