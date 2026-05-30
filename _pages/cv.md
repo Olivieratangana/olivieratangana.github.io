@@ -8,93 +8,204 @@ redirect_from:
 ---
 
 {% include base_path %}
-Olivier Atangana - **PhD Candidate in Central Bank Digital Currencies (CBDC)** @ [Ensicaen Engineering School ](https://www.ensicaen.fr/) and **Cryptocurrencies Researcher** @ [Fime](https://www.fime.com/fr/).
 
-[Download pdf version](http://olivieratangana.github.io/files/Curriculum.pdf)
+Olivier Atangana – **PhD in Computer Science (Digital Currencies and Secure Payment Systems)** | **Researcher & CBDC Consultant @ Fime**
+
+[Download PDF Version](http://olivieratangana.github.io/files/Curriculum.pdf)
 
 # OLIVIER ATANGANA
-46 Rue saint Ouen, 14000 Caen, France  
-📞 +33(0) 616711609 | 📧 olivieratangana57@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/olivieratangana/)🌐 [olivieratangana.github.io](https://olivieratangana.github.io/)
+
+46 Rue Saint Ouen, 14000 Caen, France
+📧 [olivieratangana57@gmail.com](mailto:olivieratangana57@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/olivieratangana/) | 🌐 [olivieratangana.github.io](https://olivieratangana.github.io/)
+
+---
 
 ## CAREER PROFILE
-A highly motivated Ph.D. Candidate specializing in cryptocurrencies, with a solid background in electronic engineering, computer networks, and telecommunications. Proven ability in functional, security, and compliance testing, alongside a strong foundation in programming and machine learning. Aiming to leverage the expertise in blockchain technology and network security to contribute to innovative projects in the field of Central Bank Digital Currencies (CBDCs).
+
+PhD in Secure Digital Payment Systems and researcher at Fime, specializing in Central Bank Digital Currencies (CBDCs), digital identity, cybersecurity, and privacy-enhancing technologies. Experienced in the design, analysis, and evaluation of secure transaction protocols, cryptographic systems, interoperability frameworks, and trusted digital infrastructures. Author of scientific publications in the fields of digital currencies, fraud detection, and secure payment architectures, with experience spanning academic research, industrial innovation, and European digital finance initiatives. Combining academic research, industrial innovation, and standardization activities in the fields of digital currencies and digital trust services. Committed to developing secure, interoperable, and resilient solutions that support the future of digital payments and digital trust services.
+
+---
 
 ## EDUCATION
-- **Ph.D. Candidate in Cryptocurrencies** | ENSICAEN Engineering School| January 2023 - Present  
-  Thesis: Central Bank Digital Currency offline payments requirements  
-  Key Courses: Transaction Security, Cryptography Algorithms, Blockchain Risk Management, AI applied to security and privacy.
-  
-- **Engineering Degree in Computer Science and Electronics** | Polytech Engineering School of Dijon | 2022  
-  Specialty: Network Security and Quality
+
+### Ph.D. in Computer Science | ENSICAEN / University of Normandy, France | 2026
+
+**Thesis:** *Offline Payment Requirements for Central Bank Digital Currencies*
+
+### Engineering Degree in Computer Science and Electronics | Polytech Dijon Engineering School, University of Burgundy, France | 2022
+
+**Specialization:** Network Security and Quality of Service (QoS)
+
+---
 
 ## PROFESSIONAL EXPERIENCE
-- **CBDC Consultant** | FIME | September 2023 – Present  
-  Strategized, designed, and roadmapped CBDC use cases for clients.
-  
-- **Cryptocurrency Researcher** | FIME | January 2023 – Present  
-  Led the test tool development project for an offline CBDC wallet.
-  
-- **IT & Telecom Project Engineer** | Options Telecom | February 2022 - July 2022  
-  Developed customizable call flow dashboards tailored for decision-makers.
-  
-- **IT Assistant Supervisor** | University de Burgundy | April 2020 - December 2021  
-  Assisted students in leveraging computer tools and provided technical support
 
-## RESEARCH EXPERIENCE
-- CBDC Conducted an in-depth CBDC documentation study.
-- Designed features for an Offline CBDC e-wallet, considering the matrix of electronic currency and its security constraints.
-- Implemented a secure communication protocol between two offline wallets.
-- Synchronized offline transactions with the ledger.
-- Integrated embedded AI within a CBDC e-wallet for fraud detection.
+### CBDC Consultant | Fime
+
+*September 2023 – Present*
+
+* Advise financial institutions, central banks, and industry stakeholders on Central Bank Digital Currency (CBDC) architectures and deployment strategies.
+* Define CBDC business and technical requirements, use cases, and implementation roadmaps.
+* Contribute to digital identity, interoperability, security, and compliance aspects of CBDC ecosystems.
+* Participate in industry working groups and standardization-related initiatives.
+
+### Cryptocurrency Researcher | Fime
+
+*January 2023 – Present*
+
+* Conduct research on secure digital payment systems, digital identity, cryptographic protocols, and privacy-preserving technologies.
+* Lead the design and development of test tools and proof-of-concept solutions for offline CBDC wallets.
+* Evaluate security, privacy, fraud prevention, and interoperability mechanisms for digital currency systems.
+* Contribute to scientific publications, technical reports, and industry studies related to CBDCs and digital payments.
+
+### IT & Telecom Project Engineer | Options Telecom
+
+*February 2022 – July 2022*
+
+* Designed and developed customizable telecommunications monitoring and reporting dashboards for operational and executive stakeholders.
+* Automated data collection and visualization processes to support decision-making and service performance analysis.
+
+### IT Assistant Supervisor | University of Burgundy
+
+*April 2020 – December 2021*
+
+* Provided technical support and training to students and staff on IT tools and digital platforms.
+* Assisted in the deployment, maintenance, and troubleshooting of computing resources.
+
+---
 
 ## TEACHING EXPERIENCE
-- **Visiting Lecturer in Network Security** | ENSICAEN Engineering School | September 2023 - Present
+
+### Visiting Lecturer in Network Security | ENSICAEN Engineering School
+
+*September 2023 – Present*
+
+---
+## PROFESSIONAL MEMBERSHIPS
+
+* Digital Euro Association
+* GlobalPlatform
+* FIDO Alliance – FEWG EU Digital Identity Wallet Working Group
+
+---
+
+## ACADEMIC SERVICES
+
+* Reviewer for international journals and conferences
+* Organizing Committee Member, IEEE Local Computer Networks Conference (LCN 2024)
+
+---
+
 
 ## PUBLICATIONS
-- "Securing Privacy in Offline Payment for Retail CBDC: A Comprehensive Framework"  
-  Presented at Blockchain & Cryptocurrency Conference (B2C’) 18-20 October 2023, Corfu, Greece
 
-## PROFESSIONAL ASSOCIATIONS
-- Digital Euro Association, Global Platform, FIDO Alliance/FEWG EU ID Wallet
+* Atangana, O. et al. **"Securing Privacy in Offline Payment for Retail CBDC: A Comprehensive Framework."** Blockchain and Cryptocurrency Conference (B2C’2023), Corfu, Greece, October 2023.
+
+* Atangana, O. et al. **"Securing Offline CBDC Transactions: DigiVault Card and MarkoPayChain with Mobile Phone Integration."** 28th Conference on Innovation in Clouds, Internet and Networks (ICIN 2025), Paris, France, March 2025.
+
+* Atangana, O., Barbier, M., Khoukhi, L., Kockam, A. **"Block-PAD: A Blockchain-enabled Framework for Resilient and Flexible CBDC Transactions Leveraging Digital Identity."** Computer Networks, Volume 275, 2026, Article 111805.
+
+* Atangana, O. **Offline Payment Requirements for Central Bank Digital Currencies.** PhD Thesis, University of Normandy, ENSICAEN, Caen, France, March 2026.
+
+* Atangana, O. et al. **"Systematization of Knowledge on Offline-Capable Digital-Currency Protocols."** International Conference on Financial Cryptography and Data Security (ICFCDS 2026), Tokyo, Japan, April 2026.
+
+---
+
 
 ## RELEVANT SKILLS
-**Technical Skills**
-- **Blockchain**:  
-  Architecture and Design: Design and implementation of blockchain solutions.  
-  Smart Contracts: Development, deployment, and optimization of smart contracts.
-  
-- **Cryptographic Engineering**:  
-  Design and implementation of secure cryptographic protocols.  
-  Performance optimization of cryptographic operations.
-  
-- **Programming**: C++, Python, Kotlin  
-- **Electronics**: Signal Processing, Wireless Communication  
-- **Networks/Telecommunications Tools**: NS2, NS3, Omnet++, GNS3, Packet Tracer, Ntopng, PRTG  
-- **IT**: Machine learning (Keras/Tensorflow/Pytorch), Virtualization (VMware Esxi, Virtual Box), Office tools (Latex, MS Office)
 
-**Communication skills**  
-Effective Presentation: Proficient in conveying complex information in a clear and concise manner to diverse audiences.  
-Technical Communication: Adept at translating intricate technical concepts into comprehensible language for non-technical stakeholders
+### Digital Currency & Payment Systems
 
-**Interpersonal skills**  
-- Collaborating with colleagues to develop and test research ideas  
-- Supporting the development of team members through assisting with their professional training to ensure competence and personal safety
+* Central Bank Digital Currencies (CBDCs)
+* Offline Payment Systems
+* Digital Wallet Architectures
+* Digital Identity and Trust Services
+* Financial Infrastructure Design
+* Fraud Detection and Risk Mitigation
 
-## RESEARCH INTERESTS
-- Digital payment, DeFi, Open banking, Cloud, IoT, Security and Privacy in IT, Blockchain, Web3, Wireless Sensor Networks
+### Cybersecurity & Cryptography
+
+* Cryptographic Protocol Design
+* Authentication and Access Control
+* Privacy-Preserving Technologies
+* Secure Communication Protocols
+* Key Management and Trust Infrastructures
+* Security and Privacy Analysis
+
+### Blockchain & Distributed Systems
+
+* Blockchain Architectures
+* Distributed Ledger Technologies (DLT)
+* Consensus Mechanisms
+* Smart Contracts
+* Interoperability Frameworks
+
+### Artificial Intelligence & Data Science
+
+* Machine Learning for Fraud Detection
+* Explainable AI (XAI)
+* LightGBM
+* Random Forest
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* Data Analysis and Visualization
+
+### Programming
+
+* Python
+* C++
+* Kotlin
+* Java
+
+### Tools & Technologies
+
+* Linux
+* Git / GitHub
+* Docker
+* VMware ESXi
+* OpenStack
+* LaTeX
+
+---
+
+## RESEARCH AREAS
+
+* Central Bank Digital Currencies (CBDCs)
+* Digital Identity and Trust Services
+* Secure Digital Payments
+* Privacy-Enhancing Technologies
+* Applied Cryptography
+* Financial Fraud Detection
+* Blockchain and Distributed Systems
+* Cybersecurity and Resilient Infrastructures
+* Interoperability and Digital Trust Frameworks
+
+---
 
 ## CERTIFICATIONS
-- CCNA I: Basics of network
-- CCNA II: Available and Reliable Network
-- CCNA III: Local security network, Wireless Network and security
-- CCNA IV: Virtualization, Cloud Computing, IoT
 
-## OTHERS PROJECTS
-- **Guarantee of a security service in a Cloud Computing environment** | September 2021-January 2022  
-  Deployment of confidentiality and access control mechanisms in the OPENSTACK solution
-  
-- **IoT Service level guarantee** | September 2021-November 2021
+### Cisco Certified Network Associate (CCNA)
 
-## REFERREES
-- Lyes Khoukhi, [Lyes.khoukhi@ensicaen.fr](mailto:Lyes.khoukhi@ensicaen.fr)
-- Morgan Barbier, [Morgan.barbier@ensicaen.fr](mailto:Morgan.barbier@ensicaen.fr)
+* Routing and Switching
+* Network Security
+* Wireless Networks
+* Cloud Computing and IoT
+
+---
+
+## SELECTED PROJECTS
+
+### Security Services in Cloud Computing Environments
+
+*September 2021 – January 2022*
+
+* Designed and deployed confidentiality and access control mechanisms using OpenStack.
+* Evaluated security requirements and trust models for cloud infrastructures.
+
+### IoT Service Level Guarantee
+
+*September 2021 – November 2021*
+
+* Studied Quality of Service (QoS) and reliability mechanisms for IoT environments.
+* Evaluated service-level guarantees under constrained network conditions.
