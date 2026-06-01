@@ -1,39 +1,46 @@
 ---
+
 permalink: /
 title: "About Olivier Atangana"
-excerpt: "About me"
+excerpt: "Researcher in Digital Currencies, Digital Identity and Secure Payment Systems"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+
+* /about/
+* /about.html
+
 ---
-Olivier Atangana is a **PhD Candidate** at the [**Greyc Lab**](https://www.greyc.fr/), in the [**ENSICAEN Engineering School of Caen**](https://www.ensicaen.fr/), France, and a **Cryptocurrency Researcher** at the company [**Fime**](https://www.fime.com/fr/), France.
 
-**RESEARCH** 
+Olivier Atangana is a **Cryptocurrency Researcher at Fime (France)** and holds a **PhD in Computer Science** from **ENSICAEN / University of Normandy**, where he conducted research on secure digital payment systems and offline-capable Central Bank Digital Currencies (CBDCs).
 
-Olivier received his Engineering Degree in Computer Science and Electronics from ESIREM Engineering School-Dijon in 2022. His Ph.D. thesis, "Offline Payment Requirements FOR Central Bank Digital Currencies," delves into the intricacies of CBDCs and their potential for revolutionizing the financial sector. Olivier is a visiting lecturer in Network Security at ENSICAEN Engineering School and also contributes significantly to the academic community with publications, including 'Securing Privacy in Offline Payment for Retail CBDC: A Comprehensive Framework'
+His research and professional activities focus on **digital currencies**, **digital identity**, **secure payment systems**, **applied cryptography**, **privacy-enhancing technologies**, **fraud detection**, and **trusted digital infrastructures**. He combines academic research, industrial innovation, and contributions to professional communities working on the future of digital finance and digital trust.
 
-**PROJECTS** 
+Olivier is an **Expert at the Digital Euro Association**, contributing to working groups and industry studies related to digital currencies and financial regulation. He co-authored the industry reports:
 
-Olivier has collaborated with Fime on groundbreaking projects in the realm of Central Bank Digital Currencies (CBDCs). His visionary approach led to the strategization and design of avant-garde CBDC use cases, including the development of an offline CBDC wallet test tool. He has also been instrumental in research endeavors, ranging from meticulous CBDC documentation studies to the creation of an Offline CBDC e-wallet.
+* *Open Source CBDC: Exploring Open Source in CBDC Development*
+* *MiCAR's Influence on Stablecoins: Industry Insights and Implications*
 
-**RECENT ACTIVITIES**
+His scientific work includes publications on CBDCs, offline payment protocols, digital identity, privacy-preserving payment systems, and blockchain-enabled financial infrastructures. His recent contributions include:
 
-**11/08/2023**
+* *Block-PAD: A Blockchain-enabled Framework for Resilient and Flexible CBDC Transactions Leveraging Digital Identity* (Computer Networks, 2026)
+* *Systematization of Knowledge on Offline-Capable Digital-Currency Protocols* (ICFCDS 2026)
+* *Securing Offline CBDC Transactions: DigiVault Card and MarkoPayChain with Mobile Phone Integration* (ICIN 2025)
+* *Securing Privacy in Offline Payment for Retail CBDC: A Comprehensive Framework* (B2C 2023)
 
-**Securing the Future Monetary System-Cybersecurity for Central Bank Digital Currencies 8-9 November 2023, Basel, Switzerland**
+As part of his international research activities, Olivier completed research mobilities through the **Erasmus+ programme** at:
 
-My attendance at the conference titled "Securing the Future Monetary System - Cybersecurity for Central Bank Digital Currencies" held on 8-9 November 2023 in Basel, Switzerland,presented a unique opportunity to engage with key figures in the field and to represent Fime’s interests and expertise.
+* **INRS (Institut National de la Recherche Scientifique), Québec, Canada**, under the supervision of **Zakaria Abou El Houda**, where he worked on digital currency and secure payment systems.
+* **University College Dublin (Ireland)**, under the supervision of **Nima Afraz**, where he contributed to research on embedded fraud detection systems for offline digital payment transactions.
 
-**10/17/2023**
-📢 I'm thrilled to reflect on my recent presentation at the **Blockchain and Cryptocurrency Conference (B2C'2023)** in Corfu, Greece!
+In addition to his research activities, Olivier serves as a **Visiting Lecturer in Network Security at ENSICAEN**, contributes as a reviewer for international scientific venues, and actively participates in professional communities including the **Digital Euro Association**, **GlobalPlatform**, and the **FIDO Alliance FEWG EU Digital Identity Wallet Working Group**.
 
-🔐 **Privacy** stands as a cornerstone for the successful adoption of Central Bank Digital Currency (CBDC). Navigating the challenges of ensuring privacy, especially in offline payments, is no small feat. Our study delves deep into crafting an innovative protocol for CBDCs that champions both privacy and security in offline transactions.
+His current interests include Central Bank Digital Currencies (CBDCs), digital identity, trust services, interoperability frameworks, privacy-preserving technologies, fraud detection, and resilient digital payment infrastructures.
 
-🔍 At its core, our protocol harnesses the power of **blind signature technology**, ensuring transaction data remains confidential. Complementing this, we've integrated the **zk-SNARK protocol**, ensuring transactions are private yet verifiable without any interaction between parties.
+For a complete list of publications, citations, and research activities, please visit my [Google Scholar](https://scholar.google.com/citations?user=fh9JvWgAAAAJ&hl=fr&oi=ao) and [ORCID](https://orcid.org/0009-0007-9655-2641) profiles.
 
-🙏 A heartfelt thank you to **Greyc** and **Fime** for their unwavering support and contribution to this research. Their expertise was pivotal in shaping our findings.
+## Research Profiles
 
-🔗 [Dive deeper into our groundbreaking approach and its implications for the future of digital currencies.](https://normandie-univ.hal.science/hal-04243732)
-
-
+- [Google Scholar](https://scholar.google.com/citations?user=fh9JvWgAAAAJ&hl=fr&oi=ao)
+- [ORCID](https://orcid.org/0009-0007-9655-2641)
+- [LinkedIn](https://www.linkedin.com/in/olivieratangana/)
+- [GitHub](https://github.com/olivieratangana)
