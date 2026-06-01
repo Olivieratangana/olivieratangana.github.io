@@ -2,7 +2,7 @@
 
 title: "Offline Payment Requirements for Central Bank Digital Currencies"
 collection: publications
-permalink: /publication/phd-thesis-2026
+permalink: /publication/phd-thesis-2026/
 date: 2026-03-23
 venue: "University of Normandy, ENSICAEN"
 pubtype: thesis
