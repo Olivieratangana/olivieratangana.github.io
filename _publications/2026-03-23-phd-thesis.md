@@ -7,7 +7,7 @@ date: 2026-03-23
 venue: "University of Normandy, ENSICAEN"
 pubtype: thesis
 
-paperurl: "https://https://theses.hal.science/tel-05587151.pdf"
+paperurl: "https://theses.hal.science/tel-05587151.pdf"
 
 ## citation: 'Atangana, O. (2026). Offline Payment Requirements for Central Bank Digital Currencies. PhD Thesis, University of Normandy, ENSICAEN.'
 
