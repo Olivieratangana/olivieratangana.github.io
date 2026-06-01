@@ -1,14 +1,11 @@
 ---
-
 permalink: /
 title: "About Olivier Atangana"
 excerpt: "Researcher in Digital Currencies, Digital Identity and Secure Payment Systems"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 Olivier Atangana is a **Cryptocurrency Researcher at Fime (France)** and holds a **PhD in Computer Science** from **ENSICAEN / University of Normandy**, where he conducted research on secure digital payment systems and offline-capable Central Bank Digital Currencies (CBDCs).
