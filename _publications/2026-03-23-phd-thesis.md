@@ -12,4 +12,5 @@ citation: "Atangana, O. (2026). Offline Payment Requirements for Central Bank Di
 
 This doctoral dissertation investigates the requirements, architectures, security properties, privacy guarantees, and fraud prevention mechanisms necessary for offline-capable Central Bank Digital Currency (CBDC) systems.
 
-[Download PDF](https://theses.hal.science/tel-05587151.pdf)
+**Links:** [PDF](https://theses.hal.science/tel-05587151.pdf)
+
