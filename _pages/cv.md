@@ -11,7 +11,7 @@ redirect_from:
 
 Olivier Atangana – **PhD in Computer Science (Digital Currencies and Secure Payment Systems)** | **Researcher & CBDC Consultant @ Fime**
 
-[Download PDF Version](http://olivieratangana.github.io/files/Curriculum.pdf)
+[Download PDF Version](http://olivieratangana.github.io/files/CV_olivieratangana_european.pdf)
 
 # OLIVIER ATANGANA
 
